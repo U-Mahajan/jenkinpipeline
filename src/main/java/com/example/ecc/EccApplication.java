@@ -8,6 +8,7 @@ public class EccApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EccApplication.class, args);
+			System.out.println("ff");
 	}
 
 }
